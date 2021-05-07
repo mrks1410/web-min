@@ -1,0 +1,5 @@
+# for npm
+node_modules
+
+# for any editors (ex. vscode, sublime text, atom, and more...)
+.vscode

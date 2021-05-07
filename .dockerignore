@@ -1,0 +1,8 @@
+# for Docker
+.dockerignore
+Dockerfile
+
+node_modules
+.vscode
+
+test/
